@@ -199,7 +199,7 @@ def evaluate_use_case(use_case_data, api_key):
         )
 
         response = client.chat.completions.create(
-            model="llama-3.1-70b-versatile",
+            model="llama-3.3-70b-versatile",
             messages=[
                 {"role": "system", "content": "You are an AI governance expert. Return only valid JSON, no markdown formatting."},
                 {"role": "user", "content": prompt}
