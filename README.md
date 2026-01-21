@@ -192,8 +192,6 @@ AIGovLens provides **informational guidance only** and does not constitute legal
 ## 👤 Author
 
 **Parul Khanna**
-- VP, Cybersecurity | AI Governance
-- [LinkedIn](https://linkedin.com/in/yourprofile)
 - [Email](mailto:parulkcyber@gmail.com)
 
 ---
